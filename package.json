@@ -1,0 +1,28 @@
+{
+  "name": "webpack-playlist",
+  "version": "1.0.0",
+  "description": "Simple webpack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/webpack-playlist.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "The Net Ninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/webpack-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/webpack-playlist#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
